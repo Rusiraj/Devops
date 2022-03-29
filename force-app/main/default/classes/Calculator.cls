@@ -20,9 +20,9 @@ public with sharing class Calculator {
 
         }
 
-/*        public Integer div(integer a , integer b){
+       public Integer div(integer a , integer b){
 
             return a/b;
 
-        } */
+        } 
     }
