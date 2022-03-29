@@ -8,4 +8,21 @@ public with sharing class Calculator {
 
         }
         
+        public integer sub(integer a,integer b){
+
+            return a-b;
+
+        }
+
+        public Integer mul(integer a, integer b){
+
+            return a*b;
+
+        }
+
+/*        public Integer div(integer a , integer b){
+
+            return a/b;
+
+        } */
     }
