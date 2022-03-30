@@ -25,4 +25,10 @@ public with sharing class Calculator {
             return a/b;
 
         } 
+
+        public integer divmul(integer a , integer b){
+            
+            return a+b+a;
+
+        }
     }

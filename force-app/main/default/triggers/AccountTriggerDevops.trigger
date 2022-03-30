@@ -1,4 +1,4 @@
-trigger AccountTriggerDevops on SOBJECT (before insert , before update) {
+trigger AccountTriggerDevops on Account (before insert , before update) {
 
 if(Trigger.isInsert){
 
